@@ -38,8 +38,10 @@
 ### [라우팅 테이블 확인 실습](https://youtu.be/tVntagSJctc?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi)
 >![image](https://github.com/rkdtks0816/CS-Study/assets/72867019/a5f2a1de-2506-403c-887b-5785849c9486)
 <br>
+
 ### [IPv4 조각화 이론](https://youtu.be/_AONcID7Sc8?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi)
 ***큰 IP패킷들이 적은 MTU(Maximum Transmission Unit)를 갖는 링크를 통하여 전송되려면 여러 개의 작은 패킷으로 쪼개어/조각화 되어 전송***
+
 >![image](https://github.com/rkdtks0816/CS-Study/assets/72867019/a09694ab-87a3-4ed8-99dd-87273ceaff6f)<br>
 >![image](https://github.com/rkdtks0816/CS-Study/assets/72867019/6ea3d95d-d582-42e9-a665-64773dae4f9d)<br>
 >![image](https://github.com/rkdtks0816/CS-Study/assets/72867019/9d0a962b-1525-4a48-a1f5-b00f229d5a9c)<br>
